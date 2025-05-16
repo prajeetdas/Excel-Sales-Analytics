@@ -3,8 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a [customer performance report](https://github.com/prajeetdas/Excel-Sales-Analytics/blob/main/salesreport_cust_perf%20(1).pdf)
-    **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/prajeetdas/Excel-Sales-Analytics/blob/main/sales_market_report%20(1).pdf)
+    **1.** Create a [customer performance report](https://github.com/prajeetdas/Excel-Sales-Analytics/blob/main/salesreport_cust_perf%20(1).pdf)    **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/prajeetdas/Excel-Sales-Analytics/blob/main/sales_market_report%20(1).pdf)
 
   **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
